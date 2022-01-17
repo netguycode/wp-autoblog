@@ -51,7 +51,8 @@ Extend function by activating any of the 17 included add-ons. Improve feed compa
 
 ### To Get Started:
 
-Start by reading [Installing plugins](https://premium.wpmudev.org/wpmu-manual/installing-regular-plugins-on-wpmu/) section in our comprehensive [WordPress and WordPress Multisite Manual](https://premium.wpmudev.org/wpmu-manual/) if you are new to WordPress. _Please note that Autoblog pulls in content from RSS feeds. So if the content is not included in a feed, the plugin cannot fetch it. :)_ Login to your admin panel for WordPress or Multisite and activate the plugin:
+Start by reading [Installing plugins](https://wpmudev.com/docs/using-wordpress/installing-wordpress-plugins/
+) section in our comprehensive [WordPress and WordPress Multisite Manual](https://premium.wpmudev.org/wpmu-manual/) if you are new to WordPress. _Please note that Autoblog pulls in content from RSS feeds. So if the content is not included in a feed, the plugin cannot fetch it. :)_ Login to your admin panel for WordPress or Multisite and activate the plugin:
 
 *   On regular WordPress installs - visit **Plugins** and **Activate** the plugin.
 *   For WordPress Multisite installs - Activate it blog-by-blog (say if you wanted to make it a Pro Sites premium plugin), or visit **Network Admin -> Plugins** and **Network Activate** the plugin.
